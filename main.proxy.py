@@ -225,7 +225,3 @@ async def handle_message(client, message: Message):
         # Handle unknown commands or messages
         pass
 print('ok')
-
-if __name__ == "__main__":
-    print(" ╰─>  Runing ...")
-    app.run()
